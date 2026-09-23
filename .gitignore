@@ -1,0 +1,25 @@
+# Entorno e IDE
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Datos locales y documentos generados
+data/*
+!data/README.md
+output/*
+!output/.gitkeep
+.session-*.tmp
+
+# Compilaciones y herramientas locales
+build/
+dist/
+.agents/
+.codex
+*.log
+
+# Archivos privados en las ubicaciones anteriores a la reorganización
+/datos_formularios.json
+/profesionales.json
+/planilla_llena.pdf

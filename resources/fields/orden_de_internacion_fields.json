@@ -1,0 +1,509 @@
+[
+  {
+    "type": "text",
+    "name": "superior_fecha",
+    "page": 0,
+    "rect": [
+      444.84,
+      791.14,
+      569.36,
+      803.74
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_apellido_y_nombre",
+    "page": 0,
+    "rect": [
+      28.79,
+      725.27,
+      409.57,
+      743.99
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_historia_clinica",
+    "page": 0,
+    "rect": [
+      418.2,
+      725.27,
+      569.36,
+      743.99
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_sexo_f",
+    "page": 0,
+    "rect": [
+      33.83,
+      696.12,
+      38.51,
+      703.67
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_sexo_m",
+    "page": 0,
+    "rect": [
+      52.19,
+      696.12,
+      56.5,
+      703.67
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "text",
+    "name": "superior_edad",
+    "page": 0,
+    "rect": [
+      59.02,
+      693.24,
+      82.78,
+      710.15
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_fecha_nacimiento",
+    "page": 0,
+    "rect": [
+      87.82,
+      693.24,
+      132.08,
+      710.15
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_tipo_y_numero_documento",
+    "page": 0,
+    "rect": [
+      140.36,
+      693.24,
+      276.4,
+      710.15
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_obra_social_mutual",
+    "page": 0,
+    "rect": [
+      285.04,
+      693.24,
+      412.45,
+      710.15
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_numero_afiliado",
+    "page": 0,
+    "rect": [
+      418.92,
+      693.24,
+      569.36,
+      710.15
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_domicilio",
+    "page": 0,
+    "rect": [
+      28.79,
+      661.56,
+      369.26,
+      678.84
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_localidad",
+    "page": 0,
+    "rect": [
+      377.9,
+      661.56,
+      569.36,
+      678.84
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_servicio_seguimiento",
+    "page": 0,
+    "rect": [
+      115.89,
+      631.69,
+      293.32,
+      640.33
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_diagnostico_egreso",
+    "page": 0,
+    "rect": [
+      409.57,
+      631.69,
+      570.08,
+      640.33
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "superior_diagnostico_principal",
+    "page": 0,
+    "rect": [
+      113.01,
+      611.53,
+      570.08,
+      624.85
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_ingreso_urgente_no_programado",
+    "page": 0,
+    "rect": [
+      300.16,
+      579.5,
+      313.11,
+      592.45
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_ingreso_programado",
+    "page": 0,
+    "rect": [
+      416.76,
+      579.5,
+      429.72,
+      592.45
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_ingreso_derivado",
+    "page": 0,
+    "rect": [
+      534.09,
+      579.5,
+      547.41,
+      592.45
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_minimo",
+    "page": 0,
+    "rect": [
+      30.95,
+      534.86,
+      40.67,
+      544.58
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_intermedio",
+    "page": 0,
+    "rect": [
+      30.95,
+      510.03,
+      40.67,
+      519.75
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_intensivo",
+    "page": 0,
+    "rect": [
+      30.95,
+      486.63,
+      40.67,
+      496.35
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_uci_ucim",
+    "page": 0,
+    "rect": [
+      138.92,
+      492.39,
+      145.76,
+      500.67
+    ],
+    "check_style": "circle"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_uco",
+    "page": 0,
+    "rect": [
+      174.91,
+      492.39,
+      181.75,
+      500.67
+    ],
+    "check_style": "circle"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_uacv",
+    "page": 0,
+    "rect": [
+      138.92,
+      476.55,
+      145.76,
+      484.83
+    ],
+    "check_style": "circle"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_cama_s27",
+    "page": 0,
+    "rect": [
+      174.91,
+      476.55,
+      181.75,
+      484.83
+    ],
+    "check_style": "circle"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aislamiento_si",
+    "page": 0,
+    "rect": [
+      290.08,
+      536.3,
+      295.48,
+      545.3
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aislamiento_no",
+    "page": 0,
+    "rect": [
+      290.08,
+      518.67,
+      295.48,
+      527.67
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aislamiento_respiratorio",
+    "page": 0,
+    "rect": [
+      367.46,
+      537.02,
+      377.18,
+      546.74
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aislamiento_contacto",
+    "page": 0,
+    "rect": [
+      367.46,
+      526.59,
+      377.18,
+      536.3
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aislamiento_neutropenico",
+    "page": 0,
+    "rect": [
+      367.46,
+      515.43,
+      377.18,
+      525.15
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aspiracion_si",
+    "page": 0,
+    "rect": [
+      290.08,
+      493.11,
+      295.48,
+      502.11
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_aspiracion_no",
+    "page": 0,
+    "rect": [
+      290.08,
+      475.83,
+      295.48,
+      484.83
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_oxigeno_si",
+    "page": 0,
+    "rect": [
+      377.18,
+      493.11,
+      382.57,
+      502.11
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_oxigeno_no",
+    "page": 0,
+    "rect": [
+      377.18,
+      475.83,
+      382.57,
+      484.83
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_alta_hospitalaria_medica",
+    "page": 0,
+    "rect": [
+      556.77,
+      539.9,
+      566.48,
+      549.62
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_alta_hospitalaria_voluntaria",
+    "page": 0,
+    "rect": [
+      556.77,
+      526.59,
+      566.48,
+      536.3
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "text",
+    "name": "superior_alta_derivacion",
+    "page": 0,
+    "rect": [
+      457.07,
+      511.47,
+      568.64,
+      523.71
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_alta_defuncion",
+    "page": 0,
+    "rect": [
+      459.95,
+      485.91,
+      469.67,
+      495.63
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_intervencion_judicial_si",
+    "page": 0,
+    "rect": [
+      566.48,
+      493.11,
+      571.88,
+      502.11
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "checkbox",
+    "name": "superior_intervencion_judicial_no",
+    "page": 0,
+    "rect": [
+      566.48,
+      475.83,
+      571.88,
+      484.83
+    ],
+    "check_style": "check"
+  },
+  {
+    "type": "text",
+    "name": "superior_sellos_hospital",
+    "page": 0,
+    "rect": [
+      421.08,
+      435.88,
+      570.08,
+      447.4
+    ],
+    "font_size": 9,
+    "multiline": false
+  }
+]

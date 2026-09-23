@@ -1,0 +1,1105 @@
+[
+  {
+    "type": "text",
+    "name": "declarante_provincia",
+    "page": 0,
+    "rect": [
+      94.31,
+      620.25,
+      212.37,
+      628.17
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "declarante_departamento",
+    "page": 0,
+    "rect": [
+      277.88,
+      620.25,
+      385.87,
+      628.17
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "declarante_localidad",
+    "page": 0,
+    "rect": [
+      437.34,
+      620.25,
+      536.33,
+      628.17
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_notificacion",
+    "page": 0,
+    "rect": [
+      446.34,
+      602.97,
+      537.05,
+      612.33
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "establecimiento_notificante",
+    "page": 0,
+    "rect": [
+      164.14,
+      602.97,
+      316.04,
+      612.33
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "profesional_apellido_nombre",
+    "page": 0,
+    "rect": [
+      191.49,
+      586.41,
+      536.33,
+      595.77
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "declarante_telefono",
+    "page": 0,
+    "rect": [
+      68.39,
+      572.01,
+      190.77,
+      581.01
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "declarante_fax",
+    "page": 0,
+    "rect": [
+      230.37,
+      572.01,
+      335.47,
+      581.01
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "declarante_email",
+    "page": 0,
+    "rect": [
+      380.83,
+      572.01,
+      536.33,
+      581.01
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_apellido_nombres",
+    "page": 0,
+    "rect": [
+      131.38,
+      517.3,
+      537.05,
+      527.01
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_fecha_nacimiento",
+    "page": 0,
+    "rect": [
+      137.5,
+      501.46,
+      230.37,
+      510.82
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_edad",
+    "page": 0,
+    "rect": [
+      260.96,
+      501.46,
+      302.36,
+      510.82
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_sexo_m",
+    "page": 0,
+    "rect": [
+      343.39,
+      502.18,
+      352.03,
+      511.54
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_sexo_f",
+    "page": 0,
+    "rect": [
+      372.19,
+      502.18,
+      380.83,
+      511.54
+    ]
+  },
+  {
+    "type": "text",
+    "name": "paciente_dni",
+    "page": 0,
+    "rect": [
+      421.14,
+      501.46,
+      537.05,
+      510.82
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_domicilio_actual",
+    "page": 0,
+    "rect": [
+      120.58,
+      485.62,
+      349.15,
+      494.98
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_telefono_propio_vecino",
+    "page": 0,
+    "rect": [
+      431.94,
+      485.62,
+      537.05,
+      494.98
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "referencia_ubicacion_domicilio",
+    "page": 0,
+    "rect": [
+      197.97,
+      469.78,
+      349.15,
+      479.14
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_localidad",
+    "page": 0,
+    "rect": [
+      395.95,
+      469.78,
+      537.05,
+      479.14
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_urbano",
+    "page": 0,
+    "rect": [
+      87.11,
+      453.94,
+      95.75,
+      463.3
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_rural",
+    "page": 0,
+    "rect": [
+      132.46,
+      453.94,
+      141.1,
+      463.3
+    ]
+  },
+  {
+    "type": "text",
+    "name": "paciente_departamento",
+    "page": 0,
+    "rect": [
+      211.65,
+      453.22,
+      332.6,
+      462.58
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_provincia",
+    "page": 0,
+    "rect": [
+      377.23,
+      453.22,
+      537.05,
+      462.58
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_inicio_sintomas",
+    "page": 0,
+    "rect": [
+      183.58,
+      404.98,
+      277.16,
+      414.34
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_consulta",
+    "page": 0,
+    "rect": [
+      448.14,
+      404.98,
+      537.05,
+      414.34
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_internacion",
+    "page": 0,
+    "rect": [
+      144.7,
+      387.7,
+      234.69,
+      397.06
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "asintomatico",
+    "page": 0,
+    "rect": [
+      111.58,
+      373.3,
+      120.22,
+      382.66
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "vomica",
+    "page": 0,
+    "rect": [
+      169.18,
+      373.3,
+      177.82,
+      382.66
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "masa",
+    "page": 0,
+    "rect": [
+      225.69,
+      373.3,
+      234.33,
+      382.66
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "localizacion_hepatico",
+    "page": 0,
+    "rect": [
+      198.69,
+      357.46,
+      207.33,
+      366.82
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "localizacion_pulmonar",
+    "page": 0,
+    "rect": [
+      265.28,
+      357.46,
+      273.92,
+      366.82
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "localizacion_abdominal",
+    "page": 0,
+    "rect": [
+      331.88,
+      357.46,
+      340.51,
+      366.82
+    ]
+  },
+  {
+    "type": "text",
+    "name": "localizacion_otros",
+    "page": 0,
+    "rect": [
+      377.23,
+      356.02,
+      537.05,
+      365.38
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "caracteristica_quiste_unico",
+    "page": 0,
+    "rect": [
+      199.77,
+      340.9,
+      208.41,
+      350.26
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caracteristica_quiste_multiple",
+    "page": 0,
+    "rect": [
+      303.08,
+      340.9,
+      311.72,
+      350.26
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caracteristica_quiste_calcificado",
+    "page": 0,
+    "rect": [
+      417.54,
+      340.9,
+      426.18,
+      350.26
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caracteristica_quiste_complicado",
+    "page": 0,
+    "rect": [
+      533.45,
+      340.9,
+      542.09,
+      350.26
+    ]
+  },
+  {
+    "type": "text",
+    "name": "diagnostico_imagenes_rx",
+    "page": 0,
+    "rect": [
+      80.99,
+      307.43,
+      521.93,
+      316.42
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "diagnostico_imagenes_ecografia",
+    "page": 0,
+    "rect": [
+      107.99,
+      291.59,
+      521.93,
+      300.59
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "diagnostico_imagenes_tac",
+    "page": 0,
+    "rect": [
+      91.79,
+      275.75,
+      521.93,
+      284.75
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "ocupacion_riesgo",
+    "page": 0,
+    "rect": [
+      137.5,
+      231.47,
+      233.97,
+      240.83
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "lugar_trabajo_urbana",
+    "page": 0,
+    "rect": [
+      348.43,
+      235.79,
+      357.07,
+      245.15
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "lugar_trabajo_periurbano",
+    "page": 0,
+    "rect": [
+      420.06,
+      235.79,
+      428.7,
+      245.15
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "lugar_trabajo_rural",
+    "page": 0,
+    "rect": [
+      468.66,
+      235.79,
+      477.3,
+      245.15
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "lugar_trabajo_silvestre",
+    "page": 0,
+    "rect": [
+      532.73,
+      235.79,
+      541.37,
+      245.15
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "trabajo_vivio_zona_rural_si",
+    "page": 0,
+    "rect": [
+      197.97,
+      220.67,
+      206.61,
+      230.03
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "trabajo_vivio_zona_rural_no",
+    "page": 0,
+    "rect": [
+      236.49,
+      220.67,
+      245.13,
+      230.03
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "crio_animales_si",
+    "page": 0,
+    "rect": [
+      330.8,
+      205.55,
+      339.43,
+      214.91
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "crio_animales_no",
+    "page": 0,
+    "rect": [
+      368.59,
+      205.55,
+      377.23,
+      214.91
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tiene_perros_si",
+    "page": 0,
+    "rect": [
+      122.02,
+      189.71,
+      130.66,
+      199.07
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tiene_perros_no",
+    "page": 0,
+    "rect": [
+      160.9,
+      189.71,
+      169.54,
+      199.07
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "perro_parasitado_si",
+    "page": 0,
+    "rect": [
+      330.8,
+      189.71,
+      339.43,
+      199.07
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "perro_parasitado_no",
+    "page": 0,
+    "rect": [
+      369.31,
+      189.71,
+      377.95,
+      199.07
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "perro_tratado_si",
+    "page": 0,
+    "rect": [
+      497.45,
+      189.71,
+      506.09,
+      199.07
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "perro_tratado_no",
+    "page": 0,
+    "rect": [
+      534.17,
+      189.71,
+      542.81,
+      199.07
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_ultima_desparasitacion",
+    "page": 0,
+    "rect": [
+      174.58,
+      173.15,
+      265.64,
+      182.51
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "alimenta_perros_visceras_crudas_si",
+    "page": 0,
+    "rect": [
+      252.69,
+      158.75,
+      261.32,
+      168.11
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "alimenta_perros_visceras_crudas_no",
+    "page": 0,
+    "rect": [
+      292.28,
+      158.75,
+      300.92,
+      168.11
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_toma_muestra",
+    "page": 1,
+    "rect": [
+      167.38,
+      703.77,
+      264.56,
+      713.13
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "material_remitido",
+    "page": 1,
+    "rect": [
+      347.35,
+      703.77,
+      537.05,
+      713.13
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "metodo_laboratorio",
+    "page": 1,
+    "rect": [
+      73.79,
+      687.21,
+      322.16,
+      696.57
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "resultado_laboratorio",
+    "page": 1,
+    "rect": [
+      385.87,
+      687.21,
+      537.05,
+      696.57
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_farmacologico_si",
+    "page": 1,
+    "rect": [
+      172.78,
+      618.81,
+      181.42,
+      628.17
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_farmacologico_no",
+    "page": 1,
+    "rect": [
+      211.29,
+      618.81,
+      219.93,
+      628.17
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_farmacologico_primera_vez",
+    "page": 1,
+    "rect": [
+      315.68,
+      618.81,
+      324.32,
+      628.17
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_farmacologico_ulterior",
+    "page": 1,
+    "rect": [
+      385.15,
+      618.81,
+      393.79,
+      628.17
+    ]
+  },
+  {
+    "type": "text",
+    "name": "tratamiento_farmacologico_droga",
+    "page": 1,
+    "rect": [
+      152.98,
+      602.25,
+      294.44,
+      611.61
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "tratamiento_farmacologico_dosis",
+    "page": 1,
+    "rect": [
+      328.28,
+      602.25,
+      421.86,
+      611.61
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "tratamiento_farmacologico_dias",
+    "page": 1,
+    "rect": [
+      468.66,
+      602.25,
+      522.65,
+      611.61
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_quirurgico_si",
+    "page": 1,
+    "rect": [
+      172.78,
+      586.41,
+      181.42,
+      595.77
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_quirurgico_no",
+    "page": 1,
+    "rect": [
+      211.29,
+      586.41,
+      219.93,
+      595.77
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_quirurgico_primera_vez",
+    "page": 1,
+    "rect": [
+      315.68,
+      586.41,
+      324.32,
+      595.77
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tratamiento_quirurgico_recidiva",
+    "page": 1,
+    "rect": [
+      385.15,
+      586.41,
+      393.79,
+      595.77
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "control_serologico_ecografico_si",
+    "page": 1,
+    "rect": [
+      327.56,
+      541.05,
+      336.19,
+      550.41
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "control_serologico_ecografico_no",
+    "page": 1,
+    "rect": [
+      361.39,
+      541.05,
+      370.03,
+      550.41
+    ]
+  },
+  {
+    "type": "text",
+    "name": "numero_controles_realizados",
+    "page": 1,
+    "rect": [
+      485.93,
+      537.45,
+      521.93,
+      546.81
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "educacion_promocion_salud_si",
+    "page": 1,
+    "rect": [
+      327.56,
+      524.86,
+      336.19,
+      534.21
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "educacion_promocion_salud_no",
+    "page": 1,
+    "rect": [
+      361.39,
+      524.86,
+      370.03,
+      534.21
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "desparasitacion_periodica_perros_si",
+    "page": 1,
+    "rect": [
+      485.93,
+      510.46,
+      494.57,
+      519.82
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "desparasitacion_periodica_perros_no",
+    "page": 1,
+    "rect": [
+      520.85,
+      510.46,
+      529.49,
+      519.82
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_hospitalizado_si",
+    "page": 1,
+    "rect": [
+      172.78,
+      451.78,
+      181.42,
+      461.14
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_hospitalizado_no",
+    "page": 1,
+    "rect": [
+      211.29,
+      451.78,
+      219.93,
+      461.14
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "paciente_hospitalizado_se_ignora",
+    "page": 1,
+    "rect": [
+      281.48,
+      451.78,
+      290.12,
+      461.14
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_hospitalizacion",
+    "page": 1,
+    "rect": [
+      449.94,
+      451.06,
+      537.05,
+      460.42
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "alta_sin_secuelas",
+    "page": 1,
+    "rect": [
+      129.58,
+      435.94,
+      138.22,
+      445.3
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "alta_con_secuelas",
+    "page": 1,
+    "rect": [
+      240.09,
+      435.94,
+      248.73,
+      445.3
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "fallecido",
+    "page": 1,
+    "rect": [
+      315.68,
+      435.94,
+      324.32,
+      445.3
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_fallecimiento_o_alta",
+    "page": 1,
+    "rect": [
+      359.23,
+      435.22,
+      449.22,
+      444.58
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "desconocido",
+    "page": 1,
+    "rect": [
+      532.73,
+      435.94,
+      541.37,
+      445.3
+    ]
+  },
+  {
+    "type": "text",
+    "name": "diagnostico_final",
+    "page": 1,
+    "rect": [
+      124.18,
+      419.38,
+      331.16,
+      428.74
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "laboratorio",
+    "page": 1,
+    "rect": [
+      415.38,
+      420.1,
+      424.02,
+      429.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "nexo_epidemiologico",
+    "page": 1,
+    "rect": [
+      532.73,
+      420.1,
+      541.37,
+      429.46
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_final",
+    "page": 1,
+    "rect": [
+      79.19,
+      302.75,
+      174.58,
+      312.83
+    ],
+    "font_size": 9,
+    "multiline": false
+  }
+]

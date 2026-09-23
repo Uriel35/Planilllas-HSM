@@ -1,0 +1,1318 @@
+[
+  {
+    "type": "text",
+    "name": "establecimiento_notificador",
+    "page": 0,
+    "rect": [
+      122.86,
+      663.08,
+      262.99,
+      673.63
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "institucion_provincia",
+    "page": 0,
+    "rect": [
+      291.78,
+      663.08,
+      385.36,
+      673.63
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "institucion_departamento",
+    "page": 0,
+    "rect": [
+      434.31,
+      663.08,
+      544.21,
+      673.63
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_notificacion",
+    "page": 0,
+    "rect": [
+      117.58,
+      646.28,
+      183.8,
+      656.84
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "notificador_apellido_nombre",
+    "page": 0,
+    "rect": [
+      309.54,
+      646.28,
+      560.53,
+      656.84
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "institucion_telefono",
+    "page": 0,
+    "rect": [
+      55.67,
+      630.45,
+      168.93,
+      641.01
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "institucion_correo",
+    "page": 0,
+    "rect": [
+      240.91,
+      630.45,
+      560.05,
+      641.01
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "tipo_documento_dni",
+    "page": 0,
+    "rect": [
+      119.45,
+      569.14,
+      130.75,
+      580.44
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tipo_documento_de",
+    "page": 0,
+    "rect": [
+      151.35,
+      569.14,
+      162.65,
+      580.44
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tipo_documento_ind",
+    "page": 0,
+    "rect": [
+      184.65,
+      569.14,
+      195.95,
+      580.44
+    ]
+  },
+  {
+    "type": "text",
+    "name": "numero_documento",
+    "page": 0,
+    "rect": [
+      221.72,
+      572.4,
+      281.7,
+      582.95
+    ],
+    "font_size": 9,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_apellido_nombre",
+    "page": 0,
+    "rect": [
+      341.69,
+      572.4,
+      546.13,
+      582.95
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "paciente_telefono",
+    "page": 0,
+    "rect": [
+      51.83,
+      556.56,
+      154.53,
+      567.12
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_nacimiento",
+    "page": 0,
+    "rect": [
+      236.11,
+      556.56,
+      301.38,
+      567.12
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "embarazada_si",
+    "page": 0,
+    "rect": [
+      367.25,
+      555.39,
+      378.55,
+      566.69
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "embarazada_no",
+    "page": 0,
+    "rect": [
+      398.45,
+      555.39,
+      409.75,
+      566.69
+    ]
+  },
+  {
+    "type": "text",
+    "name": "residencia_provincia",
+    "page": 0,
+    "rect": [
+      143.97,
+      545.05,
+      239.95,
+      555.6
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "residencia_departamento",
+    "page": 0,
+    "rect": [
+      311.94,
+      545.05,
+      392.08,
+      555.6
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "residencia_localidad",
+    "page": 0,
+    "rect": [
+      440.55,
+      545.05,
+      561.49,
+      555.6
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_calle",
+    "page": 0,
+    "rect": [
+      127.65,
+      534.01,
+      206.36,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_manzana",
+    "page": 0,
+    "rect": [
+      206.84,
+      534.01,
+      308.1,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_numero",
+    "page": 0,
+    "rect": [
+      309.54,
+      534.01,
+      340.25,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_piso",
+    "page": 0,
+    "rect": [
+      354.17,
+      534.01,
+      389.68,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_depto",
+    "page": 0,
+    "rect": [
+      415.6,
+      534.01,
+      476.06,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "domicilio_codigo_postal",
+    "page": 0,
+    "rect": [
+      526.93,
+      534.01,
+      561.97,
+      544.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_primera_consulta",
+    "page": 0,
+    "rect": [
+      123.34,
+      475.96,
+      191.48,
+      486.51
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_inicio_sintomas",
+    "page": 0,
+    "rect": [
+      332.09,
+      475.96,
+      400.24,
+      486.51
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "fiebre_lt_38",
+    "page": 0,
+    "rect": [
+      94.06,
+      458.68,
+      107.02,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "dolor_garganta",
+    "page": 0,
+    "rect": [
+      183.8,
+      458.68,
+      196.28,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tos",
+    "page": 0,
+    "rect": [
+      276.42,
+      458.68,
+      288.9,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "dificultad_respiratoria",
+    "page": 0,
+    "rect": [
+      379.12,
+      458.68,
+      391.6,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "cefalea",
+    "page": 0,
+    "rect": [
+      477.5,
+      458.68,
+      489.98,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "mialgias",
+    "page": 0,
+    "rect": [
+      554.29,
+      458.68,
+      567.25,
+      470.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "fiebre_ge_38",
+    "page": 0,
+    "rect": [
+      94.06,
+      446.69,
+      107.02,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "vomitos",
+    "page": 0,
+    "rect": [
+      183.8,
+      446.69,
+      196.28,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "rinitis_congestion_nasal",
+    "page": 0,
+    "rect": [
+      276.42,
+      446.69,
+      288.9,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "anosmia_reciente_aparicion",
+    "page": 0,
+    "rect": [
+      379.12,
+      446.69,
+      391.6,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "disgeusia_reciente_aparicion",
+    "page": 0,
+    "rect": [
+      477.5,
+      446.69,
+      489.98,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "diarrea",
+    "page": 0,
+    "rect": [
+      554.29,
+      446.69,
+      567.25,
+      458.2
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "astenia",
+    "page": 0,
+    "rect": [
+      94.06,
+      434.69,
+      107.02,
+      445.73
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caso_bronquiolitis",
+    "page": 0,
+    "rect": [
+      82.06,
+      376.64,
+      95.5,
+      390.55
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caso_neumonia",
+    "page": 0,
+    "rect": [
+      149.73,
+      376.64,
+      162.69,
+      390.55
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "caso_irag",
+    "page": 0,
+    "rect": [
+      206.36,
+      376.64,
+      218.84,
+      390.55
+    ]
+  },
+  {
+    "type": "text",
+    "name": "caso_otro",
+    "page": 0,
+    "rect": [
+      301.38,
+      378.56,
+      389.68,
+      390.07
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "comorbilidades_presenta_si",
+    "page": 0,
+    "rect": [
+      281.05,
+      342.94,
+      292.35,
+      354.24
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "comorbilidades_presenta_no",
+    "page": 0,
+    "rect": [
+      310.25,
+      342.94,
+      321.55,
+      354.24
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "asma",
+    "page": 0,
+    "rect": [
+      76.78,
+      309.95,
+      90.22,
+      333.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "dialisis_cronica",
+    "page": 0,
+    "rect": [
+      182.84,
+      309.95,
+      201.08,
+      333.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "insuficiencia_renal_cronica",
+    "page": 0,
+    "rect": [
+      289.86,
+      309.95,
+      308.1,
+      333.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "fumador",
+    "page": 0,
+    "rect": [
+      401.2,
+      309.95,
+      419.44,
+      333.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "tuberculosis",
+    "page": 0,
+    "rect": [
+      510.62,
+      309.95,
+      529.33,
+      333.46
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "bajo_peso_nacer",
+    "page": 0,
+    "rect": [
+      76.78,
+      286.44,
+      90.22,
+      309.47
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "embarazo_puerperio",
+    "page": 0,
+    "rect": [
+      182.84,
+      286.44,
+      201.08,
+      309.47
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "obesidad_imc_30_39_9",
+    "page": 0,
+    "rect": [
+      289.86,
+      286.44,
+      308.1,
+      309.47
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "insuficiencia_cardiaca",
+    "page": 0,
+    "rect": [
+      401.2,
+      286.44,
+      419.44,
+      309.47
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "obesidad_morbida_imc_gt_39_9",
+    "page": 0,
+    "rect": [
+      510.62,
+      286.44,
+      529.33,
+      309.47
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "bronquiolitis_previa",
+    "page": 0,
+    "rect": [
+      76.78,
+      255.73,
+      90.22,
+      285.96
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "hepatopatia_cronica",
+    "page": 0,
+    "rect": [
+      182.84,
+      255.73,
+      201.08,
+      285.96
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "inmunosupresion",
+    "page": 0,
+    "rect": [
+      289.86,
+      255.73,
+      308.1,
+      285.96
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "hipertension_arterial",
+    "page": 0,
+    "rect": [
+      401.2,
+      255.73,
+      419.44,
+      285.96
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "diabetes",
+    "page": 0,
+    "rect": [
+      76.78,
+      224.54,
+      90.22,
+      255.25
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "enfermedad_neurologica_cronica",
+    "page": 0,
+    "rect": [
+      182.84,
+      224.54,
+      201.08,
+      255.25
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "epoc",
+    "page": 0,
+    "rect": [
+      289.86,
+      224.54,
+      308.1,
+      255.25
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "neumonia_comunidad_previa",
+    "page": 0,
+    "rect": [
+      401.2,
+      224.54,
+      419.44,
+      255.25
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "dialisis_aguda",
+    "page": 0,
+    "rect": [
+      76.78,
+      194.32,
+      90.22,
+      224.06
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "enfermedad_oncologica",
+    "page": 0,
+    "rect": [
+      182.84,
+      194.32,
+      201.08,
+      224.06
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "ex_fumador",
+    "page": 0,
+    "rect": [
+      289.86,
+      194.32,
+      308.1,
+      224.06
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "prematuridad",
+    "page": 0,
+    "rect": [
+      401.2,
+      194.32,
+      419.44,
+      224.06
+    ]
+  },
+  {
+    "type": "text",
+    "name": "otras_comorbilidades",
+    "page": 0,
+    "rect": [
+      421.36,
+      194.8,
+      528.85,
+      285.48
+    ],
+    "font_size": 10,
+    "multiline": true
+  },
+  {
+    "type": "checkbox",
+    "name": "oseltamivir_administrado_si",
+    "page": 0,
+    "rect": [
+      188.05,
+      167.34,
+      199.35,
+      178.64
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "oseltamivir_administrado_no",
+    "page": 0,
+    "rect": [
+      217.2,
+      167.34,
+      228.5,
+      178.64
+    ]
+  },
+  {
+    "type": "text",
+    "name": "internado_estado",
+    "page": 0,
+    "rect": [
+      53.75,
+      142.02,
+      98.86,
+      152.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "internado_fecha",
+    "page": 0,
+    "rect": [
+      125.73,
+      142.02,
+      193.88,
+      152.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "uti_estado",
+    "page": 0,
+    "rect": [
+      216.92,
+      142.02,
+      248.59,
+      152.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "uti_fecha",
+    "page": 0,
+    "rect": [
+      274.5,
+      142.02,
+      338.33,
+      152.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "arm_estado",
+    "page": 0,
+    "rect": [
+      364.73,
+      142.02,
+      409.36,
+      152.57
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fallecido_estado",
+    "page": 0,
+    "rect": [
+      53.75,
+      130.5,
+      98.86,
+      141.06
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fallecido_fecha",
+    "page": 0,
+    "rect": [
+      125.73,
+      130.5,
+      193.88,
+      141.06
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "antecedente_viaje_14_dias_si",
+    "page": 0,
+    "rect": [
+      181.4,
+      87.32,
+      193.88,
+      100.28
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "antecedente_viaje_14_dias_no",
+    "page": 0,
+    "rect": [
+      214.04,
+      87.32,
+      226.51,
+      100.28
+    ]
+  },
+  {
+    "type": "text",
+    "name": "viaje_fecha",
+    "page": 0,
+    "rect": [
+      267.79,
+      89.24,
+      335.93,
+      99.8
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "viaje_lugar",
+    "page": 0,
+    "rect": [
+      409.36,
+      88.76,
+      532.21,
+      99.8
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "vacunacion_covid_19_si",
+    "page": 0,
+    "rect": [
+      116.14,
+      71.97,
+      128.61,
+      84.44
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "vacunacion_covid_19_no",
+    "page": 0,
+    "rect": [
+      147.33,
+      71.97,
+      159.81,
+      84.44
+    ]
+  },
+  {
+    "type": "text",
+    "name": "vacunacion_covid_ultima_dosis",
+    "page": 0,
+    "rect": [
+      234.19,
+      74.37,
+      302.34,
+      84.92
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "vacunacion_antigripal_si",
+    "page": 0,
+    "rect": [
+      116.14,
+      56.14,
+      128.61,
+      68.61
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "vacunacion_antigripal_no",
+    "page": 0,
+    "rect": [
+      147.33,
+      56.14,
+      159.81,
+      68.61
+    ]
+  },
+  {
+    "type": "text",
+    "name": "vacunacion_antigripal_ultima_dosis",
+    "page": 0,
+    "rect": [
+      234.19,
+      58.06,
+      302.34,
+      68.61
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "muestra_hisopado_ag",
+    "page": 1,
+    "rect": [
+      166.55,
+      777.29,
+      177.85,
+      788.59
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "muestra_hisopado_metodos_moleculares",
+    "page": 1,
+    "rect": [
+      373.85,
+      777.29,
+      385.15,
+      788.59
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "muestra_hisopado_nasal",
+    "page": 1,
+    "rect": [
+      456.85,
+      777.29,
+      468.15,
+      788.59
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "muestra_saliva",
+    "page": 1,
+    "rect": [
+      505.4,
+      777.29,
+      516.7,
+      788.59
+    ]
+  },
+  {
+    "type": "text",
+    "name": "muestra_otros",
+    "page": 1,
+    "rect": [
+      47.51,
+      752.32,
+      240.91,
+      763.35
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "fecha_toma_muestra",
+    "page": 1,
+    "rect": [
+      350.81,
+      752.8,
+      418.96,
+      763.35
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "no_fue_posible_tomar_muestra",
+    "page": 1,
+    "rect": [
+      186.45,
+      739.04,
+      197.75,
+      750.34
+    ]
+  },
+  {
+    "type": "text",
+    "name": "no_toma_muestra_motivo",
+    "page": 1,
+    "rect": [
+      264.43,
+      739.36,
+      500.06,
+      750.4
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "no_toma_muestra_detalle",
+    "page": 1,
+    "rect": [
+      20.16,
+      723.53,
+      451.59,
+      738.4
+    ],
+    "font_size": 10,
+    "multiline": true
+  },
+  {
+    "type": "checkbox",
+    "name": "derivado_influenza_ovr_si",
+    "page": 1,
+    "rect": [
+      146.6,
+      711.24,
+      157.9,
+      722.54
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "derivado_influenza_ovr_no",
+    "page": 1,
+    "rect": [
+      175.75,
+      711.24,
+      187.05,
+      722.54
+    ]
+  },
+  {
+    "type": "text",
+    "name": "fecha_derivacion",
+    "page": 1,
+    "rect": [
+      264.43,
+      712.98,
+      332.57,
+      723.53
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "text",
+    "name": "establecimiento_deriva_muestra",
+    "page": 1,
+    "rect": [
+      193.88,
+      699.54,
+      559.09,
+      711.06
+    ],
+    "font_size": 10,
+    "multiline": false
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_en_estudio",
+    "page": 1,
+    "rect": [
+      280.74,
+      647.24,
+      298.02,
+      663.08
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_influenza_a_positivo",
+    "page": 1,
+    "rect": [
+      549.49,
+      647.24,
+      567.25,
+      663.08
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_vsr_positivo",
+    "page": 1,
+    "rect": [
+      280.74,
+      629.97,
+      298.02,
+      646.28
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_influenza_b_positivo",
+    "page": 1,
+    "rect": [
+      549.49,
+      629.97,
+      567.25,
+      646.28
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_sars_cov2_test_ag",
+    "page": 1,
+    "rect": [
+      280.74,
+      612.22,
+      298.02,
+      629.01
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_sars_cov2_molecular_positivo",
+    "page": 1,
+    "rect": [
+      549.49,
+      612.22,
+      567.25,
+      629.01
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_ovr_positivo",
+    "page": 1,
+    "rect": [
+      280.74,
+      594.47,
+      298.02,
+      611.74
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_codeteccion_virus_respiratorios",
+    "page": 1,
+    "rect": [
+      549.49,
+      594.47,
+      567.25,
+      611.74
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_negativo_sars_cov2_ovr",
+    "page": 1,
+    "rect": [
+      280.74,
+      577.19,
+      298.02,
+      593.99
+    ]
+  },
+  {
+    "type": "checkbox",
+    "name": "clasificacion_sars_cov2_molecular_negativo",
+    "page": 1,
+    "rect": [
+      549.49,
+      577.19,
+      567.25,
+      593.99
+    ]
+  },
+  {
+    "type": "text",
+    "name": "firma_aclaracion_notificador",
+    "page": 1,
+    "rect": [
+      56.63,
+      525.38,
+      335.93,
+      544.57
+    ],
+    "font_size": 11,
+    "multiline": false
+  }
+]
