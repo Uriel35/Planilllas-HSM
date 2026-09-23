@@ -21,6 +21,15 @@ class WordNavigationTests(unittest.TestCase):
     def tearDownClass(cls):
         cls.root.destroy()
 
+    def setUp(self):
+        self.callback_errors = []
+        original = self.root.report_callback_exception
+        self.root.report_callback_exception = lambda kind, value, tb: self.callback_errors.append(str(value))
+        self.addCleanup(setattr, self.root, 'report_callback_exception', original)
+
+    def tearDown(self):
+        self.assertEqual(self.callback_errors, [], 'Falló un atajo de Tk')
+
     def test_all_editable_classes(self):
         for kind in (tk.Entry, ttk.Entry, tk.Text, ttk.Combobox, tk.Spinbox, ttk.Spinbox):
             with self.subTest(kind=kind):
@@ -50,4 +59,12 @@ class WordNavigationTests(unittest.TestCase):
                             else widget.get()[widget.index('sel.first'):widget.index('sel.last')])
                 self.assertEqual(selected, 'María   Pérez\nAna' if isinstance(widget, tk.Text)
                                  else 'María   Pérez Ana')
+                for key, expected in [('Left', 'María   Pérez\n' if isinstance(widget, tk.Text)
+                                       else 'María   Pérez '), ('Left', 'María   '),
+                                      ('Right', 'María   Pérez\n' if isinstance(widget, tk.Text)
+                                       else 'María   Pérez ')]:
+                    widget.event_generate('<Control-Shift-' + key + '>')
+                    selected = (widget.get('sel.first', 'sel.last') if isinstance(widget, tk.Text)
+                                else widget.get()[widget.index('sel.first'):widget.index('sel.last')])
+                    self.assertEqual(selected, expected)
                 widget.destroy()

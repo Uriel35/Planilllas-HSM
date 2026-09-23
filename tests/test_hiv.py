@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-import fitz
+import pymupdf as fitz
 
 import app.forms.hiv_fields as hiv
 import app.forms.tarv_fields as tarv

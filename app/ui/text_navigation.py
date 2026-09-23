@@ -44,9 +44,16 @@ def move_word(event, backwards=False, select=False):
         widget.see('insert')
     else:
         if select:
-            if not widget.selection_present():
-                widget.selection_from(position)
-            widget.selection_to(target)
+            # ttk.Entry (también Combobox y Spinbox) solo admite clear,
+            # present y range; los comandos from/to son exclusivos de tk.Entry.
+            anchor = position
+            if widget.selection_present():
+                first, last = widget.index('sel.first'), widget.index('sel.last')
+                anchor = last if position == first else first
+            if anchor == target:
+                widget.selection_clear()
+            else:
+                widget.selection_range(min(anchor, target), max(anchor, target))
         else:
             widget.selection_clear()
         widget.icursor(target)

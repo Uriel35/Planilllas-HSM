@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import Mock
 
-import fitz
+import pymupdf as fitz
 
 from app.application import TEMPLATES, generate_pdf, read_fields
 from app.ui.medication_picker import MedicationPicker

@@ -11,7 +11,7 @@ from tkinter import messagebox, ttk
 from app.ui.platform_support import UI_FONT, wheel_events
 import unicodedata
 
-import fitz
+import pymupdf as fitz
 import copy
 from app.services.patient_data import FULL_NAME_FIELDS, PatientSession
 from app.services.session_storage import load_session, save_session

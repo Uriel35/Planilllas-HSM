@@ -1,6 +1,6 @@
 """Crea una copia rellenable sin modificar SAMO.pdf."""
 
-import fitz
+import pymupdf as fitz
 
 from scripts.build_genxpert_fields import save_atomic
 from app.forms.samo_fields import LABELS, RECTS, CHECKBOX_FIELDS

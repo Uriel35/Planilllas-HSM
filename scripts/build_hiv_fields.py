@@ -1,6 +1,6 @@
 """Genera la planilla VIH rellenable sin modificar el documento original."""
 
-import fitz
+import pymupdf as fitz
 
 from scripts.build_genxpert_fields import save_atomic
 from app.forms.hiv_fields import FIELDS

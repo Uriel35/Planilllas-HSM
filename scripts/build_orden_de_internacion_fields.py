@@ -4,7 +4,7 @@ from pathlib import Path
 import shutil
 import tempfile
 
-import fitz
+import pymupdf as fitz
 from scripts.form_tools import add_fields
 
 

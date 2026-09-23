@@ -114,7 +114,7 @@ def numeric_value(name, value):
 
 def draw_numeric_cells(page, widget, value):
     """Centra cada dígito en su casillero sin tapar la grilla del original."""
-    import fitz
+    import pymupdf as fitz
 
     name, rect = widget.field_name, fitz.Rect(widget.rect)
     text = numeric_value(name, value)
@@ -180,7 +180,7 @@ def format_studies(value):
 
 def draw_studies(page, widget, value):
     """Distribuye estudios entre columnas sin separar el bloque de serologías."""
-    import fitz
+    import pymupdf as fitz
 
     rect = fitz.Rect(widget.rect)
     middle = (rect.x0 + rect.x1) / 2

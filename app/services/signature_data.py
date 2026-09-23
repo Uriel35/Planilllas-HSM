@@ -3,7 +3,7 @@ import base64
 import binascii
 import struct
 
-import fitz
+import pymupdf as fitz
 from app.forms.genxpert_fields import FIELDS as GENXPERT_FIELDS
 
 MAX_PNG_BYTES = 2 * 1024 * 1024

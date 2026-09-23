@@ -4,7 +4,7 @@ import os
 import shutil
 import tempfile
 
-import fitz
+import pymupdf as fitz
 from app.forms.genxpert_fields import FIELDS, FORM_Y_SCALE
 
 from app.paths import ORIGINALS_DIR, TEMPLATES_DIR

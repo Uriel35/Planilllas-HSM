@@ -1,6 +1,6 @@
 """Crea la versión rellenable de TBC conservando el escaneo original."""
 
-import fitz
+import pymupdf as fitz
 
 from scripts.build_genxpert_fields import save_atomic
 from app.forms.tbc_cultivo_fields import FIELDS

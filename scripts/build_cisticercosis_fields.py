@@ -1,5 +1,5 @@
 """Genera una copia rellenable sin modificar la planilla original."""
-import fitz
+import pymupdf as fitz
 from app.forms.cisticercosis_fields import FIELDS
 
 from app.paths import ORIGINALS_DIR, TEMPLATES_DIR

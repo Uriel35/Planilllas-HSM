@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import ttk
 import traceback
 
-import fitz
+import pymupdf as fitz
 
 from app.application import TEMPLATES, apply_form_defaults, generate_pdf, read_fields
 from app.services.session_storage import load_session, save_session

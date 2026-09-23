@@ -4,7 +4,7 @@ from tkinter import ttk
 
 from app.ui.platform_support import wheel_events
 
-import fitz
+import pymupdf as fitz
 
 
 class PdfPreview(ttk.Frame):

@@ -5,7 +5,7 @@ from types import SimpleNamespace
 from unittest.mock import Mock, call
 from pathlib import Path
 
-import fitz
+import pymupdf as fitz
 
 import app.forms.samo_fields as samo
 from app.application import TEMPLATES, apply_form_defaults, generate_pdf, read_fields

@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-import fitz
+import pymupdf as fitz
 import app.forms.cisticercosis_fields as c
 from app.application import TEMPLATES, generate_pdf, read_fields
 from app.services.patient_data import PatientSession

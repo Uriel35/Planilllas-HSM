@@ -1,6 +1,6 @@
 """Agrega campos a ambas copias sin alterar el recetario original."""
 
-import fitz
+import pymupdf as fitz
 
 from scripts.build_genxpert_fields import save_atomic
 from app.forms.tarv_fields import FIELDS, COPY_OFFSET, SECOND_PREFIX
